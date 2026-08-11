@@ -1,3 +1,6 @@
 # OZA-LAUNDRY
-Freshness you can feel, care you can trust. We treat your garments with precision—restoring softness, removing tough stains, and delivering crisp, perfectly folded clothes straight to your door."
+
+## 📸 Preview
+
+![OZA Laundry Homepage](oza-laundry-homepage.png)
 Ozalaundry.netlify.app

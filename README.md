@@ -1,6 +1,5 @@
 # OZA-LAUNDRY
 
 ## 📸 Preview
-
-![OZA Laundry Homepage](oza-laundry-homepage.png)
+![OZA Laundry Homepage](IMG_3931.png)
 Ozalaundry.netlify.app
